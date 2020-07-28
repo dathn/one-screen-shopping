@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "one-screen-shopping"
+    }
+  },
+  "defaultProject": "one-screen-shopping",
+  "cli": {
+    "analytics": false
+  }
 }
